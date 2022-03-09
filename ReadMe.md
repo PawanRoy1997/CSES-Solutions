@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/languages/count/:user/:repo)
+![](https://img.shields.io/github/languages/count/PawanRoy1997/CSES-Solutions)
 
 ## Getting Started
 ## Tools & Technologies Used
