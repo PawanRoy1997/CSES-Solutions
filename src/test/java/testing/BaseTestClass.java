@@ -6,9 +6,12 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-public class BaseTestClass<T> {
+public abstract class BaseTestClass<T> {
     public ByteArrayOutputStream outputStream;
     public T classUnderTest;
+
+    @BeforeEach
+    public abstract void setup();
 
     @BeforeEach
     public void setOutputStream(){

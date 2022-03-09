@@ -7,10 +7,6 @@ import testing.BaseTestClass;
 import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest extends BaseTestClass<Solution> {
-    @BeforeEach
-    public void setInstance(){
-        classUnderTest = new Solution();
-    }
 
     @Test
     public void testCaseOne(){
@@ -24,5 +20,11 @@ class SolutionTest extends BaseTestClass<Solution> {
         provideInput("ATTCGGGA");
         classUnderTest.run();
         assertEquals("3", outputStream.toString());
+    }
+
+    @Override
+    @BeforeEach
+    public void setup() {
+        classUnderTest = new Solution();
     }
 }
