@@ -25,7 +25,8 @@ Java folder contains solutions in java language in their distinct directories.
 Test folder contains unit test of the solutions in their distinct directries.
 
 ## Problems
-- [Weird Algorith](/Problems/WeirdAlgorithm.md)
-- [Increasing Array](/Problems/IncreasingArray.md)
-- [Missing Number](/Problems/MissingNumber.md)
-- [Repetitions](/Problems/Repetitions.md)
+- [Weird Algorith](/Problems/WeirdAlgorithm)
+- [Missing Number](/Problems/MissingNumber)
+- [Repetitions](/Problems/Repetitions)
+- [Increasing Array](/Problems/IncreasingArray)
+- [Permutations](/Problems/Permutations)
