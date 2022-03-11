@@ -30,3 +30,4 @@ Test folder contains unit test of the solutions in their distinct directries.
 - [Repetitions](/Problems/Repetitions)
 - [Increasing Array](/Problems/IncreasingArray)
 - [Permutations](/Problems/Permutations)
+- [Number Spiral](/Problems/NumberSpiral)
