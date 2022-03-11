@@ -13,7 +13,7 @@ Print n integers: the result.
 ## Constraints
 - 1 <= n <= 1000
 
-## Example2
+## Example
 #### Input:
 8
 #### Output:

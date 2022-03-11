@@ -16,7 +16,7 @@ are no solutions, print "NO SOLUTION".
 ## Constraints
 - 2 <= n <= 2*10^6
 
-## Example2
+## Example 1
 #### Input:
 5
 

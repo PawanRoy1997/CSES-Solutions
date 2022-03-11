@@ -21,7 +21,7 @@ For each test, print the number in row y and column x.
 - 1 <= t <= 10^5
 - 2 <= x,y <= 10^9
 
-## Example2
+## Example
 #### Input:
 3
 2 3
