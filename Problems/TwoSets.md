@@ -24,9 +24,13 @@ similar way.
 ### Output:
 
 YES
+
 4
+
 1 2 4 7
+
 3
+
 3 5 6
 
 ##Example 2
