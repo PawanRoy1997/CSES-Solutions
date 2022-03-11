@@ -32,3 +32,4 @@ Test folder contains unit test of the solutions in their distinct directries.
 - [Permutations](/Problems/Permutations.md)
 - [Number Spiral](/Problems/NumberSpiral.md)
 - [Two Knights](/Problems/TwoKnights.md)
+- [Two Sets](/Problems/TwoSets.md)
