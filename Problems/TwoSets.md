@@ -18,15 +18,22 @@ similar way.
 
 ## Example 1
 ### Input:
+
 7
+
 ### Output:
+
 YES
 4
 1 2 4 7
 3
 3 5 6
+
 ##Example 2
 ### Input:
+
 6
+
 ### Output:
+
 NO
