@@ -30,14 +30,15 @@ Java folder contains solutions in java language in their distinct directories. T
 solutions in their distinct directries.
 
 ## Problems
-|                     Problem                      |                        Solutions                         |
-|:------------------------------------------------:|:--------------------------------------------------------:|
-|  [Weird Algorith](/Problems/WeirdAlgorithm.md)   |  [Solution](src/main/java/weirdAlgorithm/Solution.java)  |
-|   [Missing Number](/Problems/MissingNumber.md)   |  [Solution](src/main/java/missingNumber/Solution.java)  |
-|     [Repetitions](/Problems/Repetitions.md)      |   [Solution](src/main/java/repetitions/Solution.java)   |
-| [Increasing Array](/Problems/IncreasingArray.md) | [Solution](src/main/java/increasingArray/Solution.java) |
-|    [Permutations](/Problems/Permutations.md)     |  [Solution](src/main/java/permutations/Solution.java)   |
-|    [Number Spiral](/Problems/NumberSpiral.md)    |  [Solution](src/main/java/numberSpiral/Solution.java)   |
-|      [Two Knights](/Problems/TwoKnights.md)      |   [Solution](src/main/java/twoKnights/Solution.java)    |
-|         [Two Sets](/Problems/TwoSets.md)         |     [Solution](src/main/java/twoSets/Solution.java)     |
-|      [Bit Strings](/Problems/BitStrings.md)      |   [Solution](src/main/java/bitStrings/Solution.java)    |
+|                     Problem                      |                        Solutions                        |
+|:------------------------------------------------:|:-------------------------------------------------------:|
+|  [Weird Algorith](Problems/WeirdAlgorithm.md)   | [Solution](src/main/java/weirdAlgorithm/Solution.java)  |
+|   [Missing Number](Problems/MissingNumber.md)   |  [Solution](src/main/java/missingNumber/Solution.java)  |
+|     [Repetitions](Problems/Repetitions.md)      |   [Solution](src/main/java/repetitions/Solution.java)   |
+| [Increasing Array](Problems/IncreasingArray.md) | [Solution](src/main/java/increasingArray/Solution.java) |
+|    [Permutations](Problems/Permutations.md)     |  [Solution](src/main/java/permutations/Solution.java)   |
+|    [Number Spiral](Problems/NumberSpiral.md)    |  [Solution](src/main/java/numberSpiral/Solution.java)   |
+|      [Two Knights](Problems/TwoKnights.md)      |   [Solution](src/main/java/twoKnights/Solution.java)    |
+|         [Two Sets](Problems/TwoSets.md)         |     [Solution](src/main/java/twoSets/Solution.java)     |
+|      [Bit Strings](Problems/BitStrings.md)      |   [Solution](src/main/java/bitStrings/Solution.java)    |
+|   [Trailing Zeros](Problems/TrailingZeros.md)   |  [Solution](src/main/java/trailingZeros/Solution.java)  |
