@@ -30,8 +30,8 @@ Java folder contains solutions in java language in their distinct directories. T
 solutions in their distinct directries.
 
 ## Problems
-|                     Problem                      |                        Solutions                        |
-|:------------------------------------------------:|:-------------------------------------------------------:|
+|                     Problem                     |                        Solutions                        |
+|:-----------------------------------------------:|:-------------------------------------------------------:|
 |  [Weird Algorith](Problems/WeirdAlgorithm.md)   | [Solution](src/main/java/weirdAlgorithm/Solution.java)  |
 |   [Missing Number](Problems/MissingNumber.md)   |  [Solution](src/main/java/missingNumber/Solution.java)  |
 |     [Repetitions](Problems/Repetitions.md)      |   [Solution](src/main/java/repetitions/Solution.java)   |
@@ -42,3 +42,4 @@ solutions in their distinct directries.
 |         [Two Sets](Problems/TwoSets.md)         |     [Solution](src/main/java/twoSets/Solution.java)     |
 |      [Bit Strings](Problems/BitStrings.md)      |   [Solution](src/main/java/bitStrings/Solution.java)    |
 |   [Trailing Zeros](Problems/TrailingZeros.md)   |  [Solution](src/main/java/trailingZeros/Solution.java)  |
+|       [Coin Piles](Problems/CoinPiles.md)       |    [Solution](src/main/java/coinPiles/Solution.java)    |
