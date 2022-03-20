@@ -31,11 +31,38 @@ solutions in their distinct directories.
 
 ## Problems
 
-|                     Problem                     |                        Solutions                        |                   Problem                   |                       Solutions                       |                     Problem                      |                         Solutions                         |
-|:-----------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------------:|:------------------------------------------------:|:---------------------------------------------------------:|
-|  [Weird Algorithm](Problems/WeirdAlgorithm.md)  | [Solution](src/main/java/weirdAlgorithm/Solution.java)  | [Missing Number](Problems/MissingNumber.md) | [Solution](src/main/java/missingNumber/Solution.java) |      [Repetitions](Problems/Repetitions.md)      |    [Solution](src/main/java/repetitions/Solution.java)    |
-| [Increasing Array](Problems/IncreasingArray.md) | [Solution](src/main/java/increasingArray/Solution.java) |  [Permutations](Problems/Permutations.md)   | [Solution](src/main/java/permutations/Solution.java)  |    [Number Spiral](Problems/NumberSpiral.md)     |   [Solution](src/main/java/numberSpiral/Solution.java)    |
-|      [Two Knights](Problems/TwoKnights.md)      |   [Solution](src/main/java/twoKnights/Solution.java)    |       [Two Sets](Problems/TwoSets.md)       |    [Solution](src/main/java/twoSets/Solution.java)    |      [Bit Strings](Problems/BitStrings.md)       |    [Solution](src/main/java/bitStrings/Solution.java)     |
-|   [Trailing Zeros](Problems/TrailingZeros.md)   |  [Solution](src/main/java/trailingZeros/Solution.java)  |     [Coin Piles](Problems/CoinPiles.md)     |   [Solution](src/main/java/coinPiles/Solution.java)   | [Palindrome Reorder](Problems/PalindromeReorder) | [Solution](src/main/java/palindromeReorder/Solution.java) |
-|       [Gray Code ](Problems/GrayCode.md)        |    [Solution](src/main/java/grayCode/Solution.java)     | [Tower Of Hanoi](Problems/TowerOfHanoi.md)  | [Solution](src/main/java/towerOfHanoi/Solution.java)  |  [Creating String](Problems/CreatingString.md)   |  [Solution](src/main/java/creatingString/Solution.java)   |
-|   [Apple Division](Problems/AppleDivision.md)   |  [Solution](src/main/java/appleDivision/Solution.java)  |||||
+|                     Problem                     |                        Solutions                        |                         Problem                          |                          Solutions                          |                     Problem                      |                         Solutions                         |
+|:-----------------------------------------------:|:-------------------------------------------------------:|:--------------------------------------------------------:|:-----------------------------------------------------------:|:------------------------------------------------:|:---------------------------------------------------------:|
+|  [Weird Algorithm](Problems/WeirdAlgorithm.md)  | [Solution](src/main/java/weirdAlgorithm/Solution.java)  |       [Missing Number](Problems/MissingNumber.md)        |    [Solution](src/main/java/missingNumber/Solution.java)    |      [Repetitions](Problems/Repetitions.md)      |    [Solution](src/main/java/repetitions/Solution.java)    |
+| [Increasing Array](Problems/IncreasingArray.md) | [Solution](src/main/java/increasingArray/Solution.java) |         [Permutations](Problems/Permutations.md)         |    [Solution](src/main/java/permutations/Solution.java)     |    [Number Spiral](Problems/NumberSpiral.md)     |   [Solution](src/main/java/numberSpiral/Solution.java)    |
+|      [Two Knights](Problems/TwoKnights.md)      |   [Solution](src/main/java/twoKnights/Solution.java)    |             [Two Sets](Problems/TwoSets.md)              |       [Solution](src/main/java/twoSets/Solution.java)       |      [Bit Strings](Problems/BitStrings.md)       |    [Solution](src/main/java/bitStrings/Solution.java)     |
+|   [Trailing Zeros](Problems/TrailingZeros.md)   |  [Solution](src/main/java/trailingZeros/Solution.java)  |           [Coin Piles](Problems/CoinPiles.md)            |      [Solution](src/main/java/coinPiles/Solution.java)      | [Palindrome Reorder](Problems/PalindromeReorder) | [Solution](src/main/java/palindromeReorder/Solution.java) |
+|       [Gray Code ](Problems/GrayCode.md)        |    [Solution](src/main/java/grayCode/Solution.java)     |        [Tower Of Hanoi](Problems/TowerOfHanoi.md)        |    [Solution](src/main/java/towerOfHanoi/Solution.java)     |  [Creating String](Problems/CreatingString.md)   |  [Solution](src/main/java/creatingString/Solution.java)   |
+|   [Apple Division](Problems/AppleDivision.md)   |  [Solution](src/main/java/appleDivision/Solution.java)  | [Chessboard and Queens](Problems/ChessboardAndQueens.md) | [Solution](src/main/java/chessboardAndQueens/Solution.java) |||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
